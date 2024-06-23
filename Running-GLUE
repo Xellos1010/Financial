@@ -1,0 +1,65 @@
+When you sync more files to your S3 bucket in the specified path, the AWS Glue crawler will not automatically detect these changes. You need to manually start the crawler again to update the Glue Data Catalog with the new data. However, you can set up a schedule to run the crawler periodically or use AWS Lambda to trigger the crawler whenever new data is added to the S3 bucket.
+
+Here's how you can handle it:
+
+### Option 1: Manually Start the Crawler
+You can run the crawler manually using the AWS CLI command:
+```batch
+aws glue start-crawler --name BTC-USD_ONE_DAY_Crawler --profile SystemDeveloper-Xellos
+```
+
+### Option 2: Schedule the Crawler
+You can set up a schedule for the crawler to run at regular intervals using the AWS Management Console or AWS CLI.
+
+#### Using the AWS Management Console:
+1. Go to the AWS Glue console.
+2. Select your crawler (`BTC-USD_ONE_DAY_Crawler`).
+3. Click on the "Schedule" tab.
+4. Add a schedule to run the crawler at your desired frequency.
+
+#### Using AWS CLI:
+```batch
+aws glue update-crawler-schedule --crawler-name BTC-USD_ONE_DAY_Crawler --schedule "cron(0 12 * * ? *)" --profile SystemDeveloper-Xellos
+```
+The above example sets the crawler to run every day at 12:00 PM UTC.
+
+### Option 3: Automate with AWS Lambda
+You can create an AWS Lambda function that triggers the Glue crawler whenever new data is added to your S3 bucket.
+
+#### Steps:
+1. **Create an S3 Event Notification**:
+   - Configure your S3 bucket to send an event notification to an AWS Lambda function whenever new objects are created.
+
+2. **Create a Lambda Function**:
+   - Create a Lambda function that starts the Glue crawler.
+
+Here's an example of a Lambda function written in Node.js:
+
+```javascript
+const AWS = require('aws-sdk');
+const glue = new AWS.Glue();
+
+exports.handler = async (event) => {
+    const crawlerName = 'BTC-USD_ONE_DAY_Crawler';
+
+    const params = {
+        Name: crawlerName
+    };
+
+    try {
+        await glue.startCrawler(params).promise();
+        console.log(`Successfully started the crawler: ${crawlerName}`);
+    } catch (error) {
+        console.error(`Error starting the crawler: ${crawlerName}`, error);
+        throw error;
+    }
+};
+```
+
+#### Setting Up the Lambda Function:
+1. Create a new Lambda function in the AWS Management Console.
+2. Add the above code to the function.
+3. Set up the necessary IAM roles and permissions for the Lambda function to start the Glue crawler.
+4. Configure the S3 bucket to trigger the Lambda function on object creation.
+
+This setup ensures that your Glue Data Catalog is always up-to-date with the latest data in your S3 bucket.

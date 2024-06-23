@@ -1,0 +1,27 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "glue:CreateDatabase",
+                "glue:DeleteDatabase",
+                "glue:GetDatabase",
+                "glue:GetDatabases",
+                "glue:CreateCrawler",
+                "glue:UpdateCrawler",
+                "glue:DeleteCrawler",
+                "glue:GetCrawler",
+                "glue:GetCrawlers",
+                "glue:StartCrawler",
+                "glue:StopCrawler",
+                "glue:UpdateCrawlerSchedule"
+            ],
+            "Resource": [
+                "arn:aws:glue:*:*:catalog",
+                "arn:aws:glue:*:*:database/*",
+                "arn:aws:glue:*:*:crawler/*"
+            ]
+        }
+    ]
+}

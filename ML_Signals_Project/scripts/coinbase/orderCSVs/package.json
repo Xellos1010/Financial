@@ -1,0 +1,13 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "Orders CSV files by oldest newest in product candles",
+  "main": "index.js",
+  "author": "Evan McCall",
+  "license": "None",
+  "private": true,
+  "dependencies": {
+    "csv-reader": "^1.0.12",
+    "csv-writer": "^1.6.0"
+  }
+}

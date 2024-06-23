@@ -1,0 +1,272 @@
+VWMA Window: 16, Profit Exit: 0.03, Loss Stop: 0.01
+Total Trades: 27, Percent Profitable: 40.74074074074074, Total Profit: 78.25508052875914, Total Loss: 75.6967956664765, Profit Factor: 1.0337964749994775, Max Drawdown: 13.499999999999996, Ending Balance: 593.0402942908173, Estimated Ending Balance: 1087.6509016550344
+VWMA Window: 16, Profit Exit: 0.03, Loss Stop: 0.02
+Total Trades: 21, Percent Profitable: 57.14285714285714, Total Profit: 82.79920120970576, Total Loss: 85.56646743492115, Profit Factor: 0.9676594545951067, Max Drawdown: 13.499999999999996, Ending Balance: 595.5395606653383, Estimated Ending Balance: 1092.2346194089428
+VWMA Window: 16, Profit Exit: 0.03, Loss Stop: 0.03
+Total Trades: 16, Percent Profitable: 68.75, Total Profit: 82.79622065967648, Total Loss: 71.5880327458611, Profit Factor: 1.1565651057014608, Max Drawdown: 13.499999999999996, Ending Balance: 595.5379213628219, Estimated Ending Balance: 1092.2316128866587
+VWMA Window: 16, Profit Exit: 0.03, Loss Stop: 0.04
+Total Trades: 10, Percent Profitable: 80.0, Total Profit: 73.52706938160208, Total Loss: 38.40743606749521, Profit Factor: 1.9143967135007258, Max Drawdown: 13.499999999999996, Ending Balance: 590.4398881598809, Estimated Ending Balance: 1083.169527809745
+VWMA Window: 16, Profit Exit: 0.04, Loss Stop: 0.01
+Total Trades: 24, Percent Profitable: 37.5, Total Profit: 97.35960034010506, Total Loss: 72.27824154683914, Profit Factor: 1.3470111925317416, Max Drawdown: 18.000000000000014, Ending Balance: 603.5477801870577, Estimated Ending Balance: 1106.9218965928067
+VWMA Window: 16, Profit Exit: 0.04, Loss Stop: 0.02
+Total Trades: 14, Percent Profitable: 57.14285714285714, Total Profit: 92.5068053415096, Total Loss: 57.72079187855053, Profit Factor: 1.6026600178346793, Max Drawdown: 18.000000000000014, Ending Balance: 600.8787429378303, Estimated Ending Balance: 1092.90750300728
+VWMA Window: 16, Profit Exit: 0.04, Loss Stop: 0.03
+Total Trades: 12, Percent Profitable: 66.66666666666666, Total Profit: 92.37205712737165, Total Loss: 58.108164765974855, Profit Factor: 1.5896571075577999, Max Drawdown: 18.000000000000014, Ending Balance: 600.8046314200544, Estimated Ending Balance: 1101.8908923616814
+VWMA Window: 16, Profit Exit: 0.04, Loss Stop: 0.04
+Total Trades: 7, Percent Profitable: 85.71428571428571, Total Profit: 92.94461794321478, Total Loss: 19.331413793568, Profit Factor: 4.8079576039151135, Max Drawdown: 18.000000000000014, Ending Balance: 601.1195398687682, Estimated Ending Balance: 1101.6975983186894
+VWMA Window: 16, Profit Exit: 0.05, Loss Stop: 0.01
+Total Trades: 16, Percent Profitable: 37.5, Total Profit: 92.4272974645493, Total Loss: 47.35480741467191, Profit Factor: 1.9518038930069137, Max Drawdown: 22.500000000000032, Ending Balance: 600.835013605502, Estimated Ending Balance: 1092.8279659692923
+VWMA Window: 16, Profit Exit: 0.05, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 57.14285714285714, Total Profit: 63.83489157048429, Total Loss: 28.605703303431486, Profit Factor: 2.2315442096760743, Max Drawdown: 22.500000000000032, Ending Balance: 585.1091903637662, Estimated Ending Balance: 1082.7977353019942
+VWMA Window: 16, Profit Exit: 0.05, Loss Stop: 0.03
+Total Trades: 9, Percent Profitable: 66.66666666666666, Total Profit: 97.16303921236643, Total Loss: 43.35574999252575, Profit Factor: 2.241064662221659, Max Drawdown: 22.500000000000032, Ending Balance: 603.4396715668013, Estimated Ending Balance: 1097.5654446405358
+VWMA Window: 16, Profit Exit: 0.05, Loss Stop: 0.04
+Total Trades: 4, Percent Profitable: 100.0, Total Profit: 93.08331878906264, Total Loss: 0, Profit Factor: inf, Max Drawdown: 22.500000000000032, Ending Balance: 601.1958253339844, Estimated Ending Balance: 1101.8374099671905
+VWMA Window: 16, Profit Exit: 0.06, Loss Stop: 0.01
+Total Trades: 12, Percent Profitable: 33.33333333333333, Total Profit: 73.0300619260694, Total Loss: 37.130696928487616, Profit Factor: 1.9668378987532247, Max Drawdown: 8.638406579634161, Ending Balance: 590.1665340593383, Estimated Ending Balance: 1073.4236161254696
+VWMA Window: 16, Profit Exit: 0.06, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 54.22253212529709, Total Loss: 28.224298273025894, Profit Factor: 1.9211295034079852, Max Drawdown: 17.756999999999977, Ending Balance: 579.8223926689132, Estimated Ending Balance: 1073.014035669063
+VWMA Window: 16, Profit Exit: 0.06, Loss Stop: 0.03
+Total Trades: 6, Percent Profitable: 66.66666666666666, Total Profit: 82.61976993535521, Total Loss: 28.29037580252325, Profit Factor: 2.9204196689386595, Max Drawdown: 13.135499999999997, Ending Balance: 595.4408734644452, Estimated Ending Balance: 1083.016841342699
+VWMA Window: 16, Profit Exit: 0.06, Loss Stop: 0.04
+Total Trades: 3, Percent Profitable: 100.0, Total Profit: 83.20668300000003, Total Loss: 0, Profit Factor: inf, Max Drawdown: 26.999999999999993, Ending Balance: 595.7636756499999, Estimated Ending Balance: 1091.881675934888
+VWMA Window: 16, Profit Exit: 0.07, Loss Stop: 0.01
+Total Trades: 11, Percent Profitable: 27.27272727272727, Total Profit: 58.614435509601435, Total Loss: 37.41783996921181, Profit Factor: 1.5664836761777439, Max Drawdown: 13.057951691229459, Ending Balance: 582.2379395302806, Estimated Ending Balance: 1086.7404786563634
+VWMA Window: 16, Profit Exit: 0.07, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 68.14118407846641, Total Loss: 28.47382271700952, Profit Factor: 2.393116820164812, Max Drawdown: 22.216499999999996, Ending Balance: 587.4776512431565, Estimated Ending Balance: 1087.180787420456
+VWMA Window: 16, Profit Exit: 0.07, Loss Stop: 0.03
+Total Trades: 5, Percent Profitable: 60.0, Total Profit: 68.07531055044585, Total Loss: 28.54158724524175, Profit Factor: 2.3851270066206594, Max Drawdown: 17.574750000000016, Ending Balance: 587.4414208027454, Estimated Ending Balance: 1087.1137396976167
+VWMA Window: 16, Profit Exit: 0.07, Loss Stop: 0.04
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 77.75286176924999, Total Loss: 19.755144105750055, Profit Factor: 3.935828630408156, Max Drawdown: 31.50000000000001, Ending Balance: 592.7640739730874, Estimated Ending Balance: 1096.9637931467196
+VWMA Window: 16, Profit Exit: 0.08, Loss Stop: 0.01
+Total Trades: 12, Percent Profitable: 25.0, Total Profit: 67.70344868594361, Total Loss: 42.53281979700406, Profit Factor: 1.5917930908195401, Max Drawdown: 17.477496802824756, Ending Balance: 587.2368967772688, Estimated Ending Balance: 1096.0709753872313
+VWMA Window: 16, Profit Exit: 0.08, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 42.857142857142854, Total Profit: 72.44217352076244, Total Loss: 38.46445240237361, Profit Factor: 1.8833538240178376, Max Drawdown: 26.676000000000013, Ending Balance: 589.8431954364194, Estimated Ending Balance: 1091.558441946151
+VWMA Window: 16, Profit Exit: 0.08, Loss Stop: 0.03
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 58.80650400000004, Total Loss: 13.985999999999995, Profit Factor: 4.2046692406692445, Max Drawdown: 22.01400000000003, Ending Balance: 582.3435771999999, Estimated Ending Balance: 1085.185483594895
+VWMA Window: 16, Profit Exit: 0.08, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 73.29600000000009, Total Loss: 0, Profit Factor: inf, Max Drawdown: 36.00000000000003, Ending Balance: 590.3128, Estimated Ending Balance: 1081.8916220204044
+VWMA Window: 16, Profit Exit: 0.09, Loss Stop: 0.01
+Total Trades: 12, Percent Profitable: 25.0, Total Profit: 81.67709373019696, Total Loss: 42.88603834217212, Profit Factor: 1.904514776546276, Max Drawdown: 21.897041914420058, Ending Balance: 594.9224015516086, Estimated Ending Balance: 1110.4158824606518
+VWMA Window: 16, Profit Exit: 0.09, Loss Stop: 0.02
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 72.89648775000009, Total Loss: 9.364500000000016, Profit Factor: 7.784343825084091, Max Drawdown: 31.135500000000036, Ending Balance: 590.0930682625, Estimated Ending Balance: 1099.6265035280217
+VWMA Window: 16, Profit Exit: 0.09, Loss Stop: 0.03
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 68.02460662500008, Total Loss: 14.046749999999998, Profit Factor: 4.842729216722736, Max Drawdown: 26.453250000000054, Ending Balance: 587.41353364375, Estimated Ending Balance: 1094.9122347372995
+VWMA Window: 16, Profit Exit: 0.09, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 82.64025000000004, Total Loss: 0, Profit Factor: inf, Max Drawdown: 40.50000000000005, Ending Balance: 595.4521374999999, Estimated Ending Balance: 1091.31070658707
+VWMA Window: 16, Profit Exit: 0.1, Loss Stop: 0.01
+Total Trades: 8, Percent Profitable: 25.0, Total Profit: 62.87004408308351, Total Loss: 28.31420233308723, Profit Factor: 2.2204420009252823, Max Drawdown: 26.316587026015302, Ending Balance: 584.5785242456959, Estimated Ending Balance: 1101.2717760283795
+VWMA Window: 16, Profit Exit: 0.1, Loss Stop: 0.02
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 72.45700402500005, Total Loss: 19.144770974999986, Profit Factor: 3.784688995215316, Max Drawdown: 35.59499999999999, Ending Balance: 589.85135221375, Estimated Ending Balance: 1091.5735368039425
+VWMA Window: 16, Profit Exit: 0.1, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 62.739346556250005, Total Loss: 28.650815943750004, Profit Factor: 2.189792663476874, Max Drawdown: 30.892500000000013, Ending Balance: 584.5066406059375, Estimated Ending Balance: 1090.9749833588162
+VWMA Window: 16, Profit Exit: 0.1, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 92.02500000000003, Total Loss: 0, Profit Factor: inf, Max Drawdown: 45.00000000000001, Ending Balance: 600.61375, Estimated Ending Balance: 1100.7706155029293
+VWMA Window: 17, Profit Exit: 0.03, Loss Stop: 0.01
+Total Trades: 26, Percent Profitable: 46.15384615384615, Total Profit: 102.7136167155992, Total Loss: 67.53298154048515, Profit Factor: 1.5209400558455088, Max Drawdown: 13.499999999999996, Ending Balance: 606.4924891935792, Estimated Ending Balance: 1112.3225674020052
+VWMA Window: 17, Profit Exit: 0.03, Loss Stop: 0.02
+Total Trades: 22, Percent Profitable: 59.09090909090909, Total Profit: 97.41699042603662, Total Loss: 86.72161474529254, Profit Factor: 1.123329987710182, Max Drawdown: 13.499999999999996, Ending Balance: 603.5793447343198, Estimated Ending Balance: 1106.9797867709624
+VWMA Window: 17, Profit Exit: 0.03, Loss Stop: 0.03
+Total Trades: 17, Percent Profitable: 70.58823529411765, Total Profit: 97.41396963858195, Total Loss: 72.55447118793036, Profit Factor: 1.3426322050678392, Max Drawdown: 13.499999999999996, Ending Balance: 603.5776833012203, Estimated Ending Balance: 1106.9767396606294
+VWMA Window: 17, Profit Exit: 0.03, Loss Stop: 0.04
+Total Trades: 11, Percent Profitable: 81.81818181818183, Total Profit: 88.01968481825368, Total Loss: 38.925936454406376, Profit Factor: 2.261209179163882, Max Drawdown: 13.499999999999996, Ending Balance: 598.4108266500396, Estimated Ending Balance: 1097.7923164351769
+VWMA Window: 17, Profit Exit: 0.04, Loss Stop: 0.01
+Total Trades: 21, Percent Profitable: 42.857142857142854, Total Profit: 112.3082908976443, Total Loss: 58.37497240356185, Profit Factor: 1.9239116743598086, Max Drawdown: 18.000000000000014, Ending Balance: 611.7695599937042, Estimated Ending Balance: 1122.0008487415844
+VWMA Window: 17, Profit Exit: 0.04, Loss Stop: 0.02
+Total Trades: 16, Percent Profitable: 56.25, Total Profit: 102.16238048711777, Total Loss: 67.55335312662415, Profit Factor: 1.5123213838937257, Max Drawdown: 18.000000000000014, Ending Balance: 606.1893092679147, Estimated Ending Balance: 1102.5666195188583
+VWMA Window: 17, Profit Exit: 0.04, Loss Stop: 0.03
+Total Trades: 11, Percent Profitable: 72.72727272727273, Total Profit: 107.32088913063524, Total Loss: 44.20639069518382, Profit Factor: 2.4277234002351515, Max Drawdown: 18.000000000000014, Ending Balance: 609.0264890218491, Estimated Ending Balance: 1116.9699871887287
+VWMA Window: 17, Profit Exit: 0.04, Loss Stop: 0.04
+Total Trades: 7, Percent Profitable: 85.71428571428571, Total Profit: 92.94461794321471, Total Loss: 19.33141379356802, Profit Factor: 4.807957603915105, Max Drawdown: 18.000000000000014, Ending Balance: 601.1195398687682, Estimated Ending Balance: 1103.394267693956
+VWMA Window: 17, Profit Exit: 0.05, Loss Stop: 0.01
+Total Trades: 18, Percent Profitable: 38.88888888888889, Total Profit: 111.98038055504297, Total Loss: 52.90720916920123, Profit Factor: 2.1165429496937045, Max Drawdown: 22.500000000000032, Ending Balance: 611.5892093052732, Estimated Ending Balance: 1112.3882205251848
+VWMA Window: 17, Profit Exit: 0.05, Loss Stop: 0.02
+Total Trades: 11, Percent Profitable: 54.54545454545454, Total Profit: 92.31569152739978, Total Loss: 47.88116394418038, Profit Factor: 1.9280168634793622, Max Drawdown: 22.500000000000032, Ending Balance: 600.7736303400696, Estimated Ending Balance: 1092.7163190985407
+VWMA Window: 17, Profit Exit: 0.05, Loss Stop: 0.03
+Total Trades: 11, Percent Profitable: 63.63636363636363, Total Profit: 106.70424329211698, Total Loss: 58.16468933183577, Profit Factor: 1.8345192679248723, Max Drawdown: 22.500000000000032, Ending Balance: 608.6873338106641, Estimated Ending Balance: 1107.1101481384912
+VWMA Window: 17, Profit Exit: 0.05, Loss Stop: 0.04
+Total Trades: 6, Percent Profitable: 83.33333333333334, Total Profit: 97.55949497950382, Total Loss: 19.242542531249995, Profit Factor: 5.069989832220283, Max Drawdown: 22.500000000000032, Ending Balance: 603.6577222387267, Estimated Ending Balance: 1108.0532675960144
+VWMA Window: 17, Profit Exit: 0.06, Loss Stop: 0.01
+Total Trades: 10, Percent Profitable: 40.0, Total Profit: 82.75291239111367, Total Loss: 28.037715790457437, Profit Factor: 2.95148552790732, Max Drawdown: 13.197796664624946, Ending Balance: 595.5141018151122, Estimated Ending Balance: 1083.150032630987
+VWMA Window: 17, Profit Exit: 0.06, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 54.222532125297064, Total Loss: 28.22429827302597, Profit Factor: 1.9211295034079792, Max Drawdown: 17.756999999999962, Ending Balance: 579.8223926689134, Estimated Ending Balance: 1074.8512158756112
+VWMA Window: 17, Profit Exit: 0.06, Loss Stop: 0.03
+Total Trades: 5, Percent Profitable: 80.0, Total Profit: 97.43514438454665, Total Loss: 14.6232902205, Profit Factor: 6.663011053966153, Max Drawdown: 26.999999999999993, Ending Balance: 603.5893294115007, Estimated Ending Balance: 1097.8376496124677
+VWMA Window: 17, Profit Exit: 0.06, Loss Stop: 0.04
+Total Trades: 3, Percent Profitable: 100.0, Total Profit: 83.20668300000008, Total Loss: 0, Profit Factor: inf, Max Drawdown: 26.999999999999993, Ending Balance: 595.7636756500001, Estimated Ending Balance: 1093.5632282989861
+VWMA Window: 17, Profit Exit: 0.07, Loss Stop: 0.01
+Total Trades: 9, Percent Profitable: 33.33333333333333, Total Profit: 68.20666430337991, Total Loss: 28.2654434957908, Profit Factor: 2.4130760344707496, Max Drawdown: 17.637319629562462, Ending Balance: 587.5136653668588, Estimated Ending Balance: 1096.5875608055067
+VWMA Window: 17, Profit Exit: 0.07, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 68.14118407846632, Total Loss: 28.473822717009597, Profit Factor: 2.3931168201648023, Max Drawdown: 22.216499999999982, Ending Balance: 587.4776512431565, Estimated Ending Balance: 1089.042223484843
+VWMA Window: 17, Profit Exit: 0.07, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 82.69164779568754, Total Loss: 14.81635807931255, Profit Factor: 5.5811048405442065, Max Drawdown: 31.50000000000001, Ending Balance: 595.480406287628, Estimated Ending Balance: 1103.8774059453049
+VWMA Window: 17, Profit Exit: 0.07, Loss Stop: 0.04
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 77.75286176925006, Total Loss: 19.755144105750034, Profit Factor: 3.9358286304081633, Max Drawdown: 31.50000000000001, Ending Balance: 592.7640739730874, Estimated Ending Balance: 1098.8419793596445
+VWMA Window: 17, Profit Exit: 0.08, Loss Stop: 0.01
+Total Trades: 10, Percent Profitable: 30.0, Total Profit: 77.37803408754135, Total Loss: 33.36457296661895, Profit Factor: 2.319167524336595, Max Drawdown: 22.076842594499983, Ending Balance: 592.5579187481476, Estimated Ending Balance: 1106.0026022548293
+VWMA Window: 17, Profit Exit: 0.08, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 42.857142857142854, Total Profit: 72.44217352076245, Total Loss: 38.46445240237361, Profit Factor: 1.883353824017838, Max Drawdown: 26.676, Ending Balance: 589.8431954364194, Estimated Ending Balance: 1093.4273732901695
+VWMA Window: 17, Profit Exit: 0.08, Loss Stop: 0.03
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 73.29600000000009, Total Loss: 0, Profit Factor: inf, Max Drawdown: 36.00000000000003, Ending Balance: 590.3128, Estimated Ending Balance: 1100.035969178809
+VWMA Window: 17, Profit Exit: 0.08, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 73.29600000000009, Total Loss: 0, Profit Factor: inf, Max Drawdown: 36.00000000000003, Ending Balance: 590.3128, Estimated Ending Balance: 1100.035969178809
+VWMA Window: 17, Profit Exit: 0.09, Loss Stop: 0.01
+Total Trades: 10, Percent Profitable: 30.0, Total Profit: 91.47829595832889, Total Loss: 33.658613667362665, Profit Factor: 2.7178272065029083, Max Drawdown: 26.5163655594375, Ending Balance: 600.3130627770809, Estimated Ending Balance: 1120.4774902033046
+VWMA Window: 17, Profit Exit: 0.09, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 42.857142857142854, Total Profit: 86.47783696430605, Total Loss: 38.84438776978422, Profit Factor: 2.2262633530698697, Max Drawdown: 31.13550000000002, Ending Balance: 597.5628103303684, Estimated Ending Balance: 1107.7376820325753
+VWMA Window: 17, Profit Exit: 0.09, Loss Stop: 0.03
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 82.64025000000007, Total Loss: 0, Profit Factor: inf, Max Drawdown: 40.50000000000005, Ending Balance: 595.4521374999999, Estimated Ending Balance: 1109.6130207144515
+VWMA Window: 17, Profit Exit: 0.09, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 82.64025000000007, Total Loss: 0, Profit Factor: inf, Max Drawdown: 40.50000000000005, Ending Balance: 595.4521374999999, Estimated Ending Balance: 1109.6130207144515
+VWMA Window: 17, Profit Exit: 0.1, Loss Stop: 0.01
+Total Trades: 11, Percent Profitable: 27.27272727272727, Total Profit: 100.72539496094122, Total Loss: 38.50420754135587, Profit Factor: 2.615958135296149, Max Drawdown: 26.3165870260153, Ending Balance: 605.3989672285177, Estimated Ending Balance: 1129.9702729003818
+VWMA Window: 17, Profit Exit: 0.1, Loss Stop: 0.02
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 72.457004025, Total Loss: 19.144770975000046, Profit Factor: 3.784688995215302, Max Drawdown: 35.595, Ending Balance: 589.85135221375, Estimated Ending Balance: 1093.4424939928922
+VWMA Window: 17, Profit Exit: 0.1, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 62.73934655625004, Total Loss: 28.024548750000022, Profit Factor: 2.2387281635087874, Max Drawdown: 16.97545124999999, Ending Balance: 584.5066406059375, Estimated Ending Balance: 1094.7578065028792
+VWMA Window: 17, Profit Exit: 0.1, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 92.025, Total Loss: 0, Profit Factor: inf, Max Drawdown: 45.00000000000001, Ending Balance: 600.61375, Estimated Ending Balance: 1102.4658572783198
+VWMA Window: 18, Profit Exit: 0.03, Loss Stop: 0.01
+Total Trades: 26, Percent Profitable: 42.30769230769231, Total Profit: 83.12916175666403, Total Loss: 70.83357979630297, Profit Factor: 1.1735840825173545, Max Drawdown: -4.500000000000025, Ending Balance: 595.7210389661652, Estimated Ending Balance: 1092.5674552034502
+VWMA Window: 18, Profit Exit: 0.03, Loss Stop: 0.02
+Total Trades: 21, Percent Profitable: 57.14285714285714, Total Profit: 82.79920120970569, Total Loss: 85.56646743492114, Profit Factor: 0.967659454595106, Max Drawdown: 13.500000000000018, Ending Balance: 595.539560665338, Estimated Ending Balance: 1092.234619408942
+VWMA Window: 18, Profit Exit: 0.03, Loss Stop: 0.03
+Total Trades: 15, Percent Profitable: 66.66666666666666, Total Profit: 68.37318269331664, Total Loss: 71.01136850121291, Profit Factor: 0.9628484021139345, Max Drawdown: 12.945969859262393, Ending Balance: 587.605250481324, Estimated Ending Balance: 1077.6828938200874
+VWMA Window: 18, Profit Exit: 0.03, Loss Stop: 0.04
+Total Trades: 10, Percent Profitable: 80.0, Total Profit: 73.52706938160217, Total Loss: 38.40743606749521, Profit Factor: 1.9143967135007285, Max Drawdown: 13.500000000000018, Ending Balance: 590.4398881598811, Estimated Ending Balance: 1083.1695278097454
+VWMA Window: 18, Profit Exit: 0.04, Loss Stop: 0.01
+Total Trades: 21, Percent Profitable: 33.33333333333333, Total Profit: 63.68282556657576, Total Loss: 64.88344831155418, Profit Factor: 0.9814957007338246, Max Drawdown: -4.500000000000025, Ending Balance: 585.0255540616166, Estimated Ending Balance: 1072.9516653286978
+VWMA Window: 18, Profit Exit: 0.04, Loss Stop: 0.02
+Total Trades: 15, Percent Profitable: 53.333333333333336, Total Profit: 82.67424409343602, Total Loss: 66.35889305169366, Profit Factor: 1.2458653285405572, Max Drawdown: 18.000000000000043, Ending Balance: 595.4708342513898, Estimated Ending Balance: 1082.368915909066
+VWMA Window: 18, Profit Exit: 0.04, Loss Stop: 0.03
+Total Trades: 10, Percent Profitable: 70.0, Total Profit: 87.74154138569278, Total Loss: 43.42474528014129, Profit Factor: 2.02054245383952, Max Drawdown: 18.000000000000043, Ending Balance: 598.257847762131, Estimated Ending Balance: 1097.2200267079852
+VWMA Window: 18, Profit Exit: 0.04, Loss Stop: 0.04
+Total Trades: 6, Percent Profitable: 83.33333333333334, Total Profit: 73.61946752771587, Total Loss: 18.989600976000023, Profit Factor: 3.8768306727855797, Max Drawdown: 18.000000000000043, Ending Balance: 590.4907071402436, Estimated Ending Balance: 1083.8843494046712
+VWMA Window: 18, Profit Exit: 0.05, Loss Stop: 0.01
+Total Trades: 20, Percent Profitable: 35.0, Total Profit: 101.99507473275375, Total Loss: 61.095887227942725, Profit Factor: 1.669426198071569, Max Drawdown: -4.500000000000025, Ending Balance: 606.0972911030146, Estimated Ending Balance: 1101.6842978234588
+VWMA Window: 18, Profit Exit: 0.05, Loss Stop: 0.02
+Total Trades: 10, Percent Profitable: 50.0, Total Profit: 68.27940491677236, Total Loss: 46.82754419968741, Profit Factor: 1.4581034748610233, Max Drawdown: 17.530877094693707, Ending Balance: 587.5536727042249, Estimated Ending Balance: 1067.9781362638214
+VWMA Window: 18, Profit Exit: 0.05, Loss Stop: 0.03
+Total Trades: 12, Percent Profitable: 58.333333333333336, Total Profit: 91.76373600767333, Total Loss: 70.87145916358783, Profit Factor: 1.2947911202993756, Max Drawdown: 3.7323050797476274, Ending Balance: 600.4700548042204, Estimated Ending Balance: 1091.4558444686488
+VWMA Window: 18, Profit Exit: 0.05, Loss Stop: 0.04
+Total Trades: 5, Percent Profitable: 80.0, Total Profit: 73.40781905085944, Total Loss: 18.819112500000013, Profit Factor: 3.900705681570233, Max Drawdown: 22.50000000000001, Ending Balance: 590.3743004779726, Estimated Ending Balance: 1083.6706773555159
+VWMA Window: 18, Profit Exit: 0.06, Loss Stop: 0.01
+Total Trades: 15, Percent Profitable: 33.33333333333333, Total Profit: 92.10617227363116, Total Loss: 46.890992921735325, Profit Factor: 1.9642615038534894, Max Drawdown: -4.500000000000025, Ending Balance: 600.6583947504971, Estimated Ending Balance: 1091.7981841631367
+VWMA Window: 18, Profit Exit: 0.06, Loss Stop: 0.02
+Total Trades: 9, Percent Profitable: 44.44444444444444, Total Profit: 63.285880373591745, Total Loss: 47.366636794222984, Profit Factor: 1.3360855795721247, Max Drawdown: 26.506847249558987, Ending Balance: 584.8072342054754, Estimated Ending Balance: 1084.0919127756713
+VWMA Window: 18, Profit Exit: 0.06, Loss Stop: 0.03
+Total Trades: 9, Percent Profitable: 55.55555555555556, Total Profit: 82.03317487737603, Total Loss: 56.56050588916999, Profit Factor: 1.4503614065637884, Max Drawdown: 12.586553551886633, Ending Balance: 595.1182461825567, Estimated Ending Balance: 1081.7280274828427
+VWMA Window: 18, Profit Exit: 0.06, Loss Stop: 0.04
+Total Trades: 5, Percent Profitable: 80.0, Total Profit: 92.42910469906205, Total Loss: 18.98512200000001, Profit Factor: 4.868502014317421, Max Drawdown: 27.000000000000036, Ending Balance: 600.8360075844839, Estimated Ending Balance: 1102.8738256247232
+VWMA Window: 18, Profit Exit: 0.07, Loss Stop: 0.01
+Total Trades: 10, Percent Profitable: 30.0, Total Profit: 63.39973431401467, Total Loss: 32.6382490000597, Profit Factor: 1.942498027816955, Max Drawdown: -4.500000000000025, Ending Balance: 584.8698538727081, Estimated Ending Balance: 1091.6529167818821
+VWMA Window: 18, Profit Exit: 0.07, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 68.14118407846634, Total Loss: 28.473822717009583, Profit Factor: 2.393116820164804, Max Drawdown: 22.216500000000003, Ending Balance: 587.4776512431565, Estimated Ending Balance: 1089.042223484843
+VWMA Window: 18, Profit Exit: 0.07, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 82.69164779568759, Total Loss: 14.816358079312554, Profit Factor: 5.581104840544208, Max Drawdown: 31.500000000000007, Ending Balance: 595.4804062876283, Estimated Ending Balance: 1103.8774059453053
+VWMA Window: 18, Profit Exit: 0.07, Loss Stop: 0.04
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 77.7528617692501, Total Loss: 19.755144105750038, Profit Factor: 3.935828630408165, Max Drawdown: 31.500000000000007, Ending Balance: 592.7640739730878, Estimated Ending Balance: 1098.8419793596452
+VWMA Window: 18, Profit Exit: 0.08, Loss Stop: 0.01
+Total Trades: 11, Percent Profitable: 27.27272727272727, Total Profit: 72.52983293414736, Total Loss: 37.71443238826913, Profit Factor: 1.9231320303976622, Max Drawdown: -4.500000000000025, Ending Balance: 589.8914081137809, Estimated Ending Balance: 1101.0255905446825
+VWMA Window: 18, Profit Exit: 0.08, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 42.857142857142854, Total Profit: 72.44217352076242, Total Loss: 38.46445240237361, Profit Factor: 1.8833538240178371, Max Drawdown: 26.676000000000016, Ending Balance: 589.8431954364194, Estimated Ending Balance: 1093.4273732901695
+VWMA Window: 18, Profit Exit: 0.08, Loss Stop: 0.03
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 67.5065169289388, Total Loss: 42.39174245011734, Profit Factor: 1.592444967516355, Max Drawdown: 8.216810999999993, Ending Balance: 587.1285843109163, Estimated Ending Balance: 1088.3951373748819
+VWMA Window: 18, Profit Exit: 0.08, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 73.29600000000002, Total Loss: 0, Profit Factor: inf, Max Drawdown: 36.00000000000003, Ending Balance: 590.3127999999999, Estimated Ending Balance: 1083.5577892020708
+VWMA Window: 18, Profit Exit: 0.09, Loss Stop: 0.01
+Total Trades: 12, Percent Profitable: 25.0, Total Profit: 81.67709373019704, Total Loss: 42.51754760628312, Profit Factor: 1.9210208097262658, Max Drawdown: -4.500000000000025, Ending Balance: 594.9224015516083, Estimated Ending Balance: 1110.4158824606516
+VWMA Window: 18, Profit Exit: 0.09, Loss Stop: 0.02
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 72.8964877500001, Total Loss: 9.364500000000012, Profit Factor: 7.784343825084095, Max Drawdown: 31.135500000000043, Ending Balance: 590.0930682625, Estimated Ending Balance: 1099.5412044559575
+VWMA Window: 18, Profit Exit: 0.09, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 53.606274435562575, Total Loss: 27.903868875000036, Profit Factor: 1.9211054451158973, Max Drawdown: 12.59613112500002, Ending Balance: 579.4834509395595, Estimated Ending Balance: 1085.3882946687827
+VWMA Window: 18, Profit Exit: 0.09, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 82.64025000000012, Total Loss: 0, Profit Factor: inf, Max Drawdown: 40.50000000000006, Ending Balance: 595.4521374999999, Estimated Ending Balance: 1092.9913796298292
+VWMA Window: 18, Profit Exit: 0.1, Loss Stop: 0.01
+Total Trades: 8, Percent Profitable: 25.0, Total Profit: 62.870044083083584, Total Loss: 27.903873224214415, Profit Factor: 2.2530938116693506, Max Drawdown: -4.500000000000025, Ending Balance: 584.5785242456959, Estimated Ending Balance: 1101.5901065835008
+VWMA Window: 18, Profit Exit: 0.1, Loss Stop: 0.02
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 72.457004025, Total Loss: 19.144770975000046, Profit Factor: 3.784688995215302, Max Drawdown: 35.59500000000001, Ending Balance: 589.85135221375, Estimated Ending Balance: 1093.4424939928922
+VWMA Window: 18, Profit Exit: 0.1, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 62.73934655625004, Total Loss: 28.024548750000037, Profit Factor: 2.2387281635087866, Max Drawdown: 16.97545124999999, Ending Balance: 584.5066406059375, Estimated Ending Balance: 1094.7968657969968
+VWMA Window: 18, Profit Exit: 0.1, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 92.02500000000003, Total Loss: 0, Profit Factor: inf, Max Drawdown: 45.00000000000002, Ending Balance: 600.61375, Estimated Ending Balance: 1102.4658572783198
+VWMA Window: 19, Profit Exit: 0.03, Loss Stop: 0.01
+Total Trades: 25, Percent Profitable: 44.0, Total Profit: 88.02527549639788, Total Loss: 66.19662825226793, Profit Factor: 1.3297546690889366, Max Drawdown: -4.500000000000025, Ending Balance: 598.413901523019, Estimated Ending Balance: 1098.6126461328552
+VWMA Window: 19, Profit Exit: 0.03, Loss Stop: 0.02
+Total Trades: 20, Percent Profitable: 60.0, Total Profit: 92.63289728527329, Total Loss: 76.7613895686029, Profit Factor: 1.2067642053624599, Max Drawdown: 13.500000000000018, Ending Balance: 600.9480935069004, Estimated Ending Balance: 1103.2651038283311
+VWMA Window: 19, Profit Exit: 0.03, Loss Stop: 0.03
+Total Trades: 14, Percent Profitable: 71.42857142857143, Total Profit: 82.99359624259168, Total Loss: 57.54432127983735, Profit Factor: 1.4422551938530095, Max Drawdown: 13.500000000000018, Ending Balance: 595.6464779334251, Estimated Ending Balance: 1093.5320045484996
+VWMA Window: 19, Profit Exit: 0.03, Loss Stop: 0.04
+Total Trades: 11, Percent Profitable: 81.81818181818183, Total Profit: 88.01968481825378, Total Loss: 38.66954633435064, Profit Factor: 2.276201640877922, Max Drawdown: 13.500000000000018, Ending Balance: 598.4108266500396, Estimated Ending Balance: 1097.7923164351769
+VWMA Window: 19, Profit Exit: 0.04, Loss Stop: 0.01
+Total Trades: 22, Percent Profitable: 31.818181818181817, Total Profit: 58.89625285152618, Total Loss: 69.25382584192666, Profit Factor: 0.8504404216737158, Max Drawdown: -4.500000000000025, Ending Balance: 582.3929390683395, Estimated Ending Balance: 1069.2001744119693
+VWMA Window: 19, Profit Exit: 0.04, Loss Stop: 0.02
+Total Trades: 15, Percent Profitable: 53.333333333333336, Total Profit: 82.67424409343606, Total Loss: 66.3588930516936, Profit Factor: 1.245865328540559, Max Drawdown: 18.000000000000043, Ending Balance: 595.4708342513898, Estimated Ending Balance: 1082.0665195779561
+VWMA Window: 19, Profit Exit: 0.04, Loss Stop: 0.03
+Total Trades: 10, Percent Profitable: 70.0, Total Profit: 87.74154138569278, Total Loss: 43.424745280141266, Profit Factor: 2.020542453839521, Max Drawdown: 18.000000000000043, Ending Balance: 598.257847762131, Estimated Ending Balance: 1098.3261510585398
+VWMA Window: 19, Profit Exit: 0.04, Loss Stop: 0.04
+Total Trades: 6, Percent Profitable: 83.33333333333334, Total Profit: 73.61946752771586, Total Loss: 18.989600976000023, Profit Factor: 3.876830672785579, Max Drawdown: 18.000000000000043, Ending Balance: 590.4907071402436, Estimated Ending Balance: 1084.3786312811933
+VWMA Window: 19, Profit Exit: 0.05, Loss Stop: 0.01
+Total Trades: 18, Percent Profitable: 33.33333333333333, Total Profit: 82.61757344014202, Total Loss: 56.01014838918326, Profit Factor: 1.4750465016817778, Max Drawdown: -4.500000000000025, Ending Balance: 595.439665392078, Estimated Ending Balance: 1082.0098807349186
+VWMA Window: 19, Profit Exit: 0.05, Loss Stop: 0.02
+Total Trades: 9, Percent Profitable: 55.55555555555556, Total Profit: 77.98123604114271, Total Loss: 37.75780822370062, Profit Factor: 2.0653009194583967, Max Drawdown: 22.50000000000001, Ending Balance: 592.8896798226282, Estimated Ending Balance: 1077.3761457954442
+VWMA Window: 19, Profit Exit: 0.05, Loss Stop: 0.03
+Total Trades: 10, Percent Profitable: 60.0, Total Profit: 82.35133818299948, Total Loss: 56.88478174262664, Profit Factor: 1.447686633581464, Max Drawdown: 17.468124764062498, Ending Balance: 595.2932360006496, Estimated Ending Balance: 1081.7437949204116
+VWMA Window: 19, Profit Exit: 0.05, Loss Stop: 0.04
+Total Trades: 5, Percent Profitable: 80.0, Total Profit: 73.40781905085942, Total Loss: 18.819112500000017, Profit Factor: 3.900705681570231, Max Drawdown: 22.50000000000001, Ending Balance: 590.3743004779726, Estimated Ending Balance: 1084.1648617915484
+VWMA Window: 19, Profit Exit: 0.06, Loss Stop: 0.01
+Total Trades: 15, Percent Profitable: 33.33333333333333, Total Profit: 92.10617227363112, Total Loss: 46.89099292173534, Profit Factor: 1.9642615038534879, Max Drawdown: -4.500000000000025, Ending Balance: 600.6583947504971, Estimated Ending Balance: 1091.4931534473144
+VWMA Window: 19, Profit Exit: 0.06, Loss Stop: 0.02
+Total Trades: 8, Percent Profitable: 50.0, Total Profit: 72.94236162824606, Total Loss: 38.218038137460034, Profit Factor: 1.9085846679489917, Max Drawdown: 27.000000000000036, Ending Balance: 590.1182988955354, Estimated Ending Balance: 1095.0182137804527
+VWMA Window: 19, Profit Exit: 0.06, Loss Stop: 0.03
+Total Trades: 8, Percent Profitable: 62.5, Total Profit: 96.84052192334114, Total Loss: 42.900825533877274, Profit Factor: 2.2573113854620255, Max Drawdown: 26.443541360250038, Ending Balance: 603.2622870578375, Estimated Ending Balance: 1096.2248456214606
+VWMA Window: 19, Profit Exit: 0.06, Loss Stop: 0.04
+Total Trades: 5, Percent Profitable: 80.0, Total Profit: 92.42910469906208, Total Loss: 18.985122000000015, Profit Factor: 4.868502014317422, Max Drawdown: 27.000000000000036, Ending Balance: 600.8360075844839, Estimated Ending Balance: 1103.3767672387398
+VWMA Window: 19, Profit Exit: 0.07, Loss Stop: 0.01
+Total Trades: 10, Percent Profitable: 30.0, Total Profit: 63.39973431401464, Total Loss: 32.63824900005972, Profit Factor: 1.9424980278169526, Max Drawdown: -4.500000000000025, Ending Balance: 584.8698538727081, Estimated Ending Balance: 1091.6529167818821
+VWMA Window: 19, Profit Exit: 0.07, Loss Stop: 0.02
+Total Trades: 6, Percent Profitable: 50.0, Total Profit: 68.14118407846634, Total Loss: 28.473822717009572, Profit Factor: 2.393116820164805, Max Drawdown: 22.216500000000003, Ending Balance: 587.4776512431565, Estimated Ending Balance: 1090.1182517203993
+VWMA Window: 19, Profit Exit: 0.07, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 82.69164779568759, Total Loss: 14.816358079312554, Profit Factor: 5.581104840544208, Max Drawdown: 31.500000000000007, Ending Balance: 595.4804062876283, Estimated Ending Balance: 1102.467149080664
+VWMA Window: 19, Profit Exit: 0.07, Loss Stop: 0.04
+Total Trades: 4, Percent Profitable: 75.0, Total Profit: 77.7528617692501, Total Loss: 19.755144105750038, Profit Factor: 3.935828630408165, Max Drawdown: 31.500000000000007, Ending Balance: 592.7640739730878, Estimated Ending Balance: 1097.4381554964139
+VWMA Window: 19, Profit Exit: 0.08, Loss Stop: 0.01
+Total Trades: 11, Percent Profitable: 27.27272727272727, Total Profit: 72.52983293414734, Total Loss: 37.71443238826917, Profit Factor: 1.9231320303976596, Max Drawdown: -4.500000000000025, Ending Balance: 589.8914081137809, Estimated Ending Balance: 1101.0255905446825
+VWMA Window: 19, Profit Exit: 0.08, Loss Stop: 0.02
+Total Trades: 7, Percent Profitable: 42.857142857142854, Total Profit: 72.4421735207624, Total Loss: 38.46445240237363, Profit Factor: 1.8833538240178354, Max Drawdown: 26.675999999999995, Ending Balance: 589.8431954364194, Estimated Ending Balance: 1092.0304668485085
+VWMA Window: 19, Profit Exit: 0.08, Loss Stop: 0.03
+Total Trades: 5, Percent Profitable: 60.0, Total Profit: 82.11507037905602, Total Loss: 28.79446776494404, Profit Factor: 2.8517655213973914, Max Drawdown: 22.014000000000035, Ending Balance: 595.1632887084806, Estimated Ending Balance: 1101.8800404038466
+VWMA Window: 19, Profit Exit: 0.08, Loss Stop: 0.04
+Total Trades: 5, Percent Profitable: 60.0, Total Profit: 72.26527521254408, Total Loss: 38.30255697945605, Profit Factor: 1.8866958477812399, Max Drawdown: 17.352000000000018, Ending Balance: 589.7459013668993, Estimated Ending Balance: 1091.8503374700877
+VWMA Window: 19, Profit Exit: 0.09, Loss Stop: 0.01
+Total Trades: 13, Percent Profitable: 23.076923076923077, Total Profit: 76.80954680841104, Total Loss: 47.007648517054896, Profit Factor: 1.6339797720480251, Max Drawdown: -4.500000000000025, Ending Balance: 592.2452507446261, Estimated Ending Balance: 1105.4190109895785
+VWMA Window: 19, Profit Exit: 0.09, Loss Stop: 0.02
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 72.89648775000008, Total Loss: 9.364500000000032, Profit Factor: 7.784343825084076, Max Drawdown: 31.135500000000025, Ending Balance: 590.0930682625, Estimated Ending Balance: 1102.181651794131
+VWMA Window: 19, Profit Exit: 0.09, Loss Stop: 0.03
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 68.02460662500012, Total Loss: 14.046749999999994, Profit Factor: 4.84272921672274, Max Drawdown: 26.45325000000006, Ending Balance: 587.41353364375, Estimated Ending Balance: 1097.1767906104042
+VWMA Window: 19, Profit Exit: 0.09, Loss Stop: 0.04
+Total Trades: 3, Percent Profitable: 66.66666666666666, Total Profit: 63.152725500000045, Total Loss: 18.72900000000001, Profit Factor: 3.3719219125420477, Max Drawdown: 21.771000000000047, Ending Balance: 584.733999025, Estimated Ending Balance: 1095.222714311471
+VWMA Window: 19, Profit Exit: 0.1, Loss Stop: 0.01
+Total Trades: 9, Percent Profitable: 22.22222222222222, Total Profit: 58.08712888470968, Total Loss: 32.4798945447055, Profit Factor: 1.78840263181145, Max Drawdown: -4.500000000000025, Ending Balance: 581.9479208865905, Estimated Ending Balance: 1096.6329511038757
+VWMA Window: 19, Profit Exit: 0.1, Loss Stop: 0.02
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 72.457004025, Total Loss: 19.144770975000014, Profit Factor: 3.7846889952153084, Max Drawdown: 35.59500000000003, Ending Balance: 589.85135221375, Estimated Ending Balance: 1094.522869915993
+VWMA Window: 19, Profit Exit: 0.1, Loss Stop: 0.03
+Total Trades: 4, Percent Profitable: 50.0, Total Profit: 62.739346556250084, Total Loss: 28.650815943749997, Profit Factor: 2.189792663476877, Max Drawdown: 30.8925, Ending Balance: 584.5066406059375, Estimated Ending Balance: 1090.9749833588162
+VWMA Window: 19, Profit Exit: 0.1, Loss Stop: 0.04
+Total Trades: 2, Percent Profitable: 100.0, Total Profit: 92.02500000000012, Total Loss: 0, Profit Factor: inf, Max Drawdown: 45.00000000000002, Ending Balance: 600.61375, Estimated Ending Balance: 1102.9686128472476
+Best BB Parameters: VWMA Window: 17, Profit Exit: 0.04, Loss Stop: 0.01
+Best BB Profit: 112.3082908976443
+BB Performance summary saved to d:\Financial\ML_Signals_Project\scripts\coinbase\test_trade_output_files\20240501_20240605\performance_summary_bb.csv
+Best BB Model Performance:
+              precision    recall  f1-score   support
+
+          -1       0.32      0.18      0.23       129
+           0       0.90      0.97      0.93      1713
+           1       0.42      0.20      0.27       136
+
+    accuracy                           0.86      1978
+   macro avg       0.55      0.45      0.48      1978
+weighted avg       0.83      0.86      0.84      1978
+
+BB Accuracy: 0.8619817997977756
+Best BB Model saved to d:\Financial\ML_Signals_Project\scripts\coinbase\test_trade_output_files\20240501_20240605\random_forest_model_bb.joblib
