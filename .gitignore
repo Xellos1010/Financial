@@ -1,0 +1,3 @@
+﻿*.csv
+*/node_modules
+*.zip
