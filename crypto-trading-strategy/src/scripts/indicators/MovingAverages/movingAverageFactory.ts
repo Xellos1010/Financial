@@ -1,3 +1,4 @@
+// src/scripts/indicators/MovingAverages/movingAverageFactory.ts
 import { SMA } from './sma';
 import { EMA } from './ema';
 import { DEMA } from './dema';

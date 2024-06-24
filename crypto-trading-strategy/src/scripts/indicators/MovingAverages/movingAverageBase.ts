@@ -1,3 +1,4 @@
+// src/scripts/indicators/MovingAverages/movingAverageBase.ts
 import { MovingAverageInput, MovingAverageOutput } from '../types/movingAverages';
 
 export abstract class MovingAverageBase {

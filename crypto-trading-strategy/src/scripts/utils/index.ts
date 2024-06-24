@@ -2,6 +2,7 @@
 
 import { AxiosResponse } from 'axios';
 
+
 export const timeRanges: { [key: string]: number } = {
     'ONE_MINUTE': 60,
     'FIVE_MINUTE': 5 * 60,
@@ -12,6 +13,10 @@ export const timeRanges: { [key: string]: number } = {
     'SIX_HOUR': 6 * 60 * 60,
     'ONE_DAY': 24 * 60 * 60
 };
+
+export function hlc3(candle: { high: number; low: number; close: number }): number {
+    return (candle.high + candle.low + candle.close) / 3;
+}
 
 export function getCurrentUnixTimestamp(): number {
     return Math.floor(Date.now() / 1000);

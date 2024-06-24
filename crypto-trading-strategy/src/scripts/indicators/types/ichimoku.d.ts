@@ -1,3 +1,4 @@
+// src/scripts/indicators/types/ichimoku.d.ts
 export interface IchimokuCloudInput {
     high: number[];
     low: number[];

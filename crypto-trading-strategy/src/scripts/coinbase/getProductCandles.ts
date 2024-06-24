@@ -1,6 +1,6 @@
 // src/scripts/coinbase/getProductCandles.ts
 import axios from 'axios';
-import { delay, handleException } from '../../utils';
+import { delay, handleException } from '../utils';
 
 async function fetchAndSaveCandles(productId: string, granularity: string, startTime: number, endTime: number) {
     const url = `https://api.coinbase.com/api/v3/brokerage/market/products/${productId}/candles?start=${startTime}&end=${endTime}&granularity=${granularity}`;

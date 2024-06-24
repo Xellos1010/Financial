@@ -1,3 +1,4 @@
+// src/scripts/indicators/MovingAverages/vwma.ts
 import { MovingAverageBase } from './movingAverageBase';
 import { MovingAverageOutput } from '../types/movingAverages';
 import { EMA } from './ema';

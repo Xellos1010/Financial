@@ -1,3 +1,4 @@
+// src/scripts/indicators/types/movingAverages.d.ts
 export type MovingAverageType = 'SMA' | 'EMA' | 'DEMA' | 'TEMA' | 'VWMA' | 'ZLEMA' | 'WMA' | 'HMA' | 'RMA';
 
 export interface MovingAverageInput {

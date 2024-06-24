@@ -1,3 +1,4 @@
+// src/scripts/indicators/RSI/rsi.ts
 import { IndicatorBase } from '../indicatorBase';
 import { RSIOutput } from '../types/rsi';
 

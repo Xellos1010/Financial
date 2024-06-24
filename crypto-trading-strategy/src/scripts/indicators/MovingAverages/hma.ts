@@ -1,3 +1,4 @@
+// src/scripts/indicators/MovingAverages/hma.ts
 import { MovingAverageBase } from './movingAverageBase';
 import { MovingAverageOutput } from '../types/movingAverages';
 import { WMA } from './wma';

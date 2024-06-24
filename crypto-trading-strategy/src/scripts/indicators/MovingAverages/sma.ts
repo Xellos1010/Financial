@@ -1,3 +1,4 @@
+// src/scripts/indicators/MovingAverages/sma.ts
 import { MovingAverageBase } from './movingAverageBase';
 import { MovingAverageOutput } from '../types/movingAverages';
 

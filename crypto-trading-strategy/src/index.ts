@@ -1,6 +1,6 @@
 import { listProducts, filterPairings } from './scripts/coinbase/listProducts';
 import fetchAndSaveCandles from './scripts/coinbase/getProductCandles';
-import { getCurrentUnixTimestamp } from './utils';
+import { getCurrentUnixTimestamp } from './scripts/utils';
 import fs from 'fs';
 import path from 'path';
 import { createObjectCsvWriter } from 'csv-writer';
