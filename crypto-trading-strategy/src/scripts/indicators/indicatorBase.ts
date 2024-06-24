@@ -1,3 +1,4 @@
+// src/scripts/indicators/indicatorBase.ts
 export abstract class IndicatorBase {
     protected prices: number[];
 
